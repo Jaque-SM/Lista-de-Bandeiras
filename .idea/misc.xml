@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2019101202010272/Desktop/ListarBandeiras/app/src/main/res/layout/activity_adpater.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/2019101202010272/Desktop/ListarBandeiras/app/src/main/res/layout/activity_brazil.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/2019101202010272/Desktop/ListarBandeiras/app/src/main/res/layout/activity_informacao.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/2019101202010272/Desktop/ListarBandeiras/app/src/main/res/layout/activity_main.xml" value="0.29775280898876405" />
+        <entry key="..\:/Users/JAQUE/Desktop/ListarBandeiras/app/src/main/res/layout/activity_afagenistao.xml" value="0.19375" />
+        <entry key="..\:/Users/JAQUE/Desktop/ListarBandeiras/app/src/main/res/layout/activity_informacao.xml" value="0.25" />
+        <entry key="..\:/Users/JAQUE/Desktop/ListarBandeiras/app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="..\:/Users/JAQUE/Desktop/ListarBandeiras/app/src/main/res/layout/adapter_bandeira.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
